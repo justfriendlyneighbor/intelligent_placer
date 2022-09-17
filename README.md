@@ -26,4 +26,4 @@
 - Многоугольник нарисован черным маркером на белой бумаге
 
 ## Примитивы
- [Примитивы](https://github.com/justfriendlyneighbor/intelligent_placer/blob/develop/primitives)
+ [Примитивы](https://github.com/justfriendlyneighbor/intelligent_placer/tree/develop/Primitives)
