@@ -26,7 +26,7 @@
 - Многоугольник нарисован черным маркером на белой бумаге
 
 ## Примитивы
- [Примитивы](https://github.com/justfriendlyneighbor/intelligent_placer/tree/develop/Primitives)
+ [Примитивы](https://github.com/justfriendlyneighbor/intelligent_placer/tree/develop/Data/items)
  
 ## План
 ### 1. Нахождение на фотографии предметов в тестовом датасете
