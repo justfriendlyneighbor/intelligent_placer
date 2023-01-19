@@ -1,0 +1,2 @@
+from intelligent_placer_lib.intelligent_placer import check_image
+import intelligent_placer_lib.placer
